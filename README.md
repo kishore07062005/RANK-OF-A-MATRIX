@@ -13,14 +13,24 @@ To write a python program to find the rank of a matrix
 Step 5: End the program.
 ## Program:
 ```
+Program to implement univariate Linear Regression to fit a straight line using least s
+Developed by: Kishore.M
+RegisterNumber: 2305002012
+```
+```
 import numpy as np
 A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 R=np.linalg.matrix_rank(A)
 print("The Rank of the Matrix A:",R)
 ```
 ## Output:
-<img width="642" alt="Rank of Matrix" src="https://github.com/kishore07062005/RANK-OF-A-MATRIX/assets/156066116/b5a4006a-3e6d-4ed7-89d4-ec2182da2ea1">
-
+```
+2.write a program to find the rank for the given matrix([5,-3,-10],[2,2,-3],[-3,-1,5])
+program  to find the solution for the given linear equation
+Developed by: Kishore.M
+RegisterNumber: 2305002012
+```
+<img width="774" alt="rank" src="https://github.com/kishore07062005/RANK-OF-A-MATRIX/assets/156066116/32c35b48-c476-4e73-9836-9269bcaafec4">
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 

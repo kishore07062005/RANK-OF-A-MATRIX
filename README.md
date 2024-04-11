@@ -30,7 +30,9 @@ program  to find the solution for the given linear equation
 Developed by: Kishore.M
 RegisterNumber: 2305002012
 ```
+```
 <img width="774" alt="rank" src="https://github.com/kishore07062005/RANK-OF-A-MATRIX/assets/156066116/32c35b48-c476-4e73-9836-9269bcaafec4">
+```
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
